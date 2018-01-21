@@ -1,0 +1,2 @@
+Generate suggestion candidates by extracting N-grams directly from the user’s messages.
+Weight beyond simple frequency counts. e.g. message freshness, folder it belongs to, read reply actions that were performed over it.

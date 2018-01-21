@@ -1,0 +1,7 @@
+A language model that employs neural networks to resolve the dimensionality problem with a distributed representation of text is open called a neural language model.
+
+This paper: RNN + first neural language model.
+
+To deal with previously unseen queries which makes MPC bad perform.
+
+"our neural language models signicantly outperform Char n-gram for both seen and unseen prefixes.

@@ -1,0 +1,5 @@
+Related Youtube video: https://www.youtube.com/watch?v=Tw4guy9X8U0 (Evaluating Retrieval System Effectiveness, introduce pref measurement)
+
+Deal with the problem of multiple terms referring to the same object.
+
+The latent semantic structure method uses the derived factor representation to process the query, represent a query (or "pseudo-document") as the weighted sum of its component term vectors from SVD.

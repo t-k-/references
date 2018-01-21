@@ -1,0 +1,8 @@
+The vanilla LDA is an unsupervised model to learn the latent semantic structure.
+For supervised LDA, it tries to incorporate side information.
+
+Topic models using Max Likelihood estimate (MLE) may get trapped in local optima.
+Spectral decomposition and Nonnegative matrix factorization (NMF) are used to get around MLE NP-hard problem.
+
+NMF has been used with LDA for a supervised LDA.
+This paper uses spectral method for supervised LDA.

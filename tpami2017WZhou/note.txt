@@ -1,0 +1,3 @@
+Combine SIFT and CNN with IR's inverted index
+The two index matrices are alternatively updated by transferring the neighborhood structure of the other one.
+keep only one of the embedded index matrices which achieves better performance for on-line query.

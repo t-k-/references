@@ -1,0 +1,21 @@
+Convolutional latent semantic models trained on session query pair.
+
+Many good references. Worth diging more info.
+
+List most popular Latent models:
+
+Latent semantic models, such as Latent Semantic Analysis (LSA)
+[10], Latent Dirichlet Allocation (LDA) [3], Bi-Lingual Topic Model
+(BLTM) [12] and more recently neural network based models such
+as Semantic Hashing [34] and Convolutional Latent Semantic Model
+(CLSM) [36], have been successfully applied to various information
+retrieval (IR) tasks.
+
+In this paper, we explore ways to model shortterm (session) history of Web search users for retrieving contextually more relevant query suggestions using the vector space framework.
+
+For example, knowing that the user’s previous query was "guardians of the galaxy" can help to inform a QAC system to promote the query "imdb" in ranking over "instagram" when the user has just typed "i" in the search box.
+
+In text processing, Mikolov et al. [31] demonstrated that the distributed representation of words learnt by continuous space language models are surprisingly good at capturing syntactic and semantic relationships between the words. Simple algebraic operations on the word vectors have been shown to produce intuitive results. For example, vector(“king”)−vector(“man”)+vector(“woman”) results in a vector that is in close proximity to the vector(“queen”).
+
+Implicit feedback:
+modelling the topical relevance of the candidate results (documents or query suggestions) to the previous queries and viewed documents in the same search session.

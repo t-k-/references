@@ -1,0 +1,8 @@
+Good survey book.
+
+QAC benefits.
+
+It focuses on summarizing the literature on QAC and provides a general understanding of the wealth of QAC approaches that are currently available.
+
+Divide methods into:
+Heuristic approaches and Learning-based approaches

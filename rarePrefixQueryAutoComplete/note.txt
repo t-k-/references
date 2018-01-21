@@ -1,0 +1,15 @@
+Improve systems that can only recommend queries for prefixes that have been previously seen by the search engine with adequate frequency. 
+
+Explore ranking signals that are appropriate for both types of candidates based on n-gram statistics and a convolutional latent semantic model (CLSM). 
+
+We propose an additional candidate generation strategy for QAC
+by mining popular query suffixes. Candidate suffixes are popular
+n-grams that appear at the ends of queries. By appending such
+n-grams suffixes to a user’s query prefix we can generate synthetic
+suggestion candidates that have never been observed in the historical
+query logs. Table 1 contains examples of such suggestions. We
+further propose a supervised framework for ranking these synthetic
+queries alongside the traditional full-query suggestion candidates.
+We also explore new ranking signals in this framework, based on
+the query n-gram statistics and a deep convolutional latent semantic
+model (CLSM)

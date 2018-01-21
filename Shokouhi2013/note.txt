@@ -1,0 +1,1 @@
+Consider the MostPopularCompletion (MPC) method [Bar-Yossef and Kraus, 2011] that ranks candidates according to their past popularity as baseline.

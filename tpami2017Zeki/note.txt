@@ -1,0 +1,3 @@
+For noisy doc, Character Recognition (OCR) accuracy can be very low.
+n-grams can improve but will fail on consecutive error.
+This paper uses Markov Random Field (MRF) to combine visual terms and letter bigrams.

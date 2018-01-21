@@ -1,0 +1,6 @@
+1. context-sensitivity at entities level.
+2. corpus-adaptivity (instead of linking to KB such as Wiki, it is based on the importance in the underlying document collection)
+
+the ranking should reflect the incremental nature of the user’s input: after the first entity is chosen, the suggestions for the second one should be sensitive to this context.
+
+A good reference for entity search and entity recommendation.
